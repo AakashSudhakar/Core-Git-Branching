@@ -22,6 +22,11 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
+Ka$h Money was attacked by the evil Zookeeper who tried to rob his lucky charms. Ka$h Money roundhouse kicked the cruel Zookeeper in the face and defeated him. 
+The Zookeeper cried. 
+
+Ka$h Money met a Friendly Koala who taught him the ways of data science and machine learning. He said "beware of the Unicorn King! He can be mean." Ka$h nodded.
+
 Ka$h Money met the Unicorn King who granted him magic powers.
 The end.
 
