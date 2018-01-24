@@ -22,7 +22,11 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-Ka$h Money met the Unicorn King who granted him magic powers.
+Ka$h Money met the Unicorn King who granted him magic powers. The Unicorn King proclaimed "Hear ye, Ka$h Money! Thou hast met with the Friendly Koala, but hast
+thou met his mother? Hm... 'tis besides the point! Thou shalt train in the arts of data science, machine learning, and neural networks! Mayhaps once in a yonder
+day, thou shalt be the greatest data man to ever live!"
+Ka$h Money smiled.
+
 The end.
 
 ## Cast
